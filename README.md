@@ -93,4 +93,5 @@ However, it's important to note that introducing complex dimensions can also mak
 
 Overall, this approach could be worth exploring, but would require careful consideration of the tradeoffs between added complexity and potential benefits in accuracy and information capture.
 
-
+https://www.linkedin.com/in/robert-hummel-74062bb2/
+https://wellfound.com/profile/edit/overview
