@@ -1,6 +1,14 @@
 # QRE
 Quantum Reduction Engine POC
 QRE
+Introducing complex numbers for the number of lattice sites in each dimension could be an interesting approach to capturing more information with fewer dimensions. This approach is similar to the idea of introducing complex dimensions in certain mathematical models, such as in string theory.
+
+In this approach, each lattice site would be described not just by its position in space, but also by a complex "orbital" that captures additional information about the particle's state. This could potentially allow for a more nuanced and accurate representation of the system.
+
+However, it's important to note that introducing complex dimensions can also make the problem more difficult to analyze and solve. It would require developing new mathematical tools and techniques to handle the complex numbers and their interactions. Additionally, the computational cost of simulating such a system could be even higher than for a purely real-valued lattice.
+
+Overall, this approach could be worth exploring, but would require careful consideration of the tradeoffs between added complexity and potential benefits in accuracy and information capture.
+
 
 Introduction:
 Quantum chemistry is a rapidly growing field that promises to revolutionize computational chemistry by utilizing the power of quantum computers. However, simulating complex quantum systems with even a relatively small number of qubits remains a significant challenge due to the exponential growth of the number of qubits required. The Quantum Reduction Engine (QRE) is a proposed solution to this problem, which aims to reduce the number of qubits required to simulate complex quantum systems. The QRE utilizes the Quantum Correlation Engine (QCE) and the Quantum Renormalization Group (QRG) to identify the degrees of freedom that are most relevant to the system and focus the computational resources on those degrees of freedom.
