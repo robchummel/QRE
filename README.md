@@ -15,7 +15,7 @@ The QRE is a proposed solution to the challenge of simulating complex quantum sy
 
 
 Research Plan:
-The research plan for the QRE involves three stages: (1) Development of the QRE algorithm using Qiskit; (2) Validation of the QRE through simulation of simple chemical systems and comparison with classical methods using Qiskit's built-in features such as noise modeling and optimization algorithms; (3) Application of the QRE to simulate more complex chemical systems and comparison with classical methods using Qiskit. The research plan will be conducted over a period of three years, with a budget of $3 million.
+The research plan for the QRE involves three stages: (1) Development of the QRE algorithm using Qiskit; (2) Validation of the QRE through simulation of simple chemical systems and comparison with classical methods using Qiskit's built-in features such as noise modeling and optimization algorithms; (3) Application of the QRE to simulate more complex chemical systems and comparison with classical methods using Qiskit.
 
 
 In stage 2, the QRE algorithm will be validated through simulation of simple chemical systems, including hydrogen molecule (H2) and helium hydride ion (HeH+), which have been extensively studied in quantum chemistry. These systems were chosen because they represent simple, yet important examples of chemical systems with known ground state energy and electronic structure. The results from the QRE simulations will be compared with those obtained from classical methods, such as the Hartree-Fock and Density Functional Theory, to validate the effectiveness of the QRE in reducing the number of qubits required for accurate simulations.
