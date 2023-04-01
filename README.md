@@ -1,8 +1,6 @@
 # QRE
 Quantum Reduction Engine POC
 QRE
-
-After analyzing the double pendulum, soft body physics problems like sand and grain silos, and the Cosmic Web, 
 Introduction:
 Quantum chemistry is a rapidly growing field that promises to revolutionize computational chemistry by utilizing the power of quantum computers. However, simulating complex quantum systems with even a relatively small number of qubits remains a significant challenge due to the exponential growth of the number of qubits required. The Quantum Reduction Engine (QRE) is a proposed solution to this problem, which aims to reduce the number of qubits required to simulate complex quantum systems. The QRE utilizes the Quantum Correlation Engine (QCE) and the Quantum Renormalization Group (QRG) to identify the degrees of freedom that are most relevant to the system and focus the computational resources on those degrees of freedom.
 
