@@ -1,3 +1,12 @@
+
+https://docs.google.com/document/d/1fVKsEylYN_Qdf47v6X6Vh7tIdWNa3s9_hY-RN2Gu5-s/edit?usp=sharing
+
+My apologies for not elaborating on the April Fools Part of the Joke before, but eventually, I'll put all the real information here :)
+
+
+
+
+
 # QRE
 Quantum Reduction Engine POC
 QRE
