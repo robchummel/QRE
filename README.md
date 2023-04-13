@@ -3,7 +3,7 @@ https://docs.google.com/document/d/1fVKsEylYN_Qdf47v6X6Vh7tIdWNa3s9_hY-RN2Gu5-s/
 
 My apologies for not elaborating on the April Fools Part of the Joke - which is specific to the type of code generation used for humor, but eventually, I'll put all the real code here. It takes a long time to develop, though, and I'm reaching out to a variety of PhD holders that I used to hang out with across every discipline, nearly ever day. I met the smartest, strangest people in the world at MIT, and I intend to continue my research with any curious mind, any scholar.
 
-The discussion is taking place mainly in https://discord.gg/AyEA6hfU but be warned, this is also the discord I use for my Twitch channel. Everyone from every corner of the world is in there, and I expect you to be respectful of everyone, and positive, if you decide to join.
+The discussion is taking place mainly in [https://discord.gg/AyEA6hfU ](https://discord.gg/fMbhDRahBk)but be warned, this is also the discord I use for my Twitch channel. Everyone from every corner of the world is in there, and I expect you to be respectful of everyone, and positive, if you decide to join.
 
 The discussion also highly utilizes a Video Game Model Of Reality, so the discussion is hard to access at first - you may need to understand terms that people on speedrun.com know, but physics PhD's don't. Most people are quite willing to explain any strange or vague terminology they use. You will encounter words in strange contexts, and piecing it together can be difficult.
 
